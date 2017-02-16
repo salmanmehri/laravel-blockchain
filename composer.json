@@ -20,5 +20,5 @@
             "MauroCasas\\Blockchain\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
